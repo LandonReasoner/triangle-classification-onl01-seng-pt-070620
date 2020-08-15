@@ -20,7 +20,7 @@ class Triangle
     elsif s1 == s2 && s1 == s3
       self.kind = :equalateral
       
-    elsif 
+    elsif s1 == s2
       
   
  end
