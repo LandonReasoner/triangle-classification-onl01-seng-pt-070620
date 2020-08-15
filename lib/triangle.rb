@@ -21,7 +21,7 @@ class Triangle
       self.kind = :equalateral
       
     elsif s1 == s2 || s2 == s3 || s1 == s3
-      self.kind = :isos
+      self.kind = :isosceles
       
   
  end
