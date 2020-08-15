@@ -8,9 +8,9 @@ class Triangle
     @s3 = s3
   end
   
+  def kind 
   
-  
-  
+ end
   
   class TriangleError < StandardError
     
