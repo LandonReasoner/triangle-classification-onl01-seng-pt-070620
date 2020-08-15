@@ -17,7 +17,7 @@ class Triangle
         puts error.message
       end 
       
-      elsif
+    elsif 
       
   
  end
