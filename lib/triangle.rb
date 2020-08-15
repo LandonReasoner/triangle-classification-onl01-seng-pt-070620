@@ -24,7 +24,7 @@ class Triangle
       self.kind = :isosceles
       
     elsif s1 == s2 || s2 == s3 || s1 == s3
-      self.kind = :isosceles
+      self.kind = :scalene
       
   
  end
