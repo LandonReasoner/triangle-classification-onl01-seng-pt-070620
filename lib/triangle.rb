@@ -10,7 +10,7 @@ class Triangle
   
   def kind 
     
-    if (@s1 + @s2) <= @s3 || (@s)
+    if (@s1 + @s2) <= @s3 || (@s2 + @s3) <= @s1
   
  end
   
